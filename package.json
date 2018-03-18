@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "iris-app@*",
+        "raw": "cm-iris-app@*",
         "scope": null,
-        "escapedName": "iris-app",
-        "name": "iris-app",
+        "escapedName": "cm-iris-app",
+        "name": "cm-iris-app",
         "rawSpec": "*",
         "spec": "*",
         "type": "range"
@@ -13,18 +13,18 @@
       "C:\\dev\\labsys"
     ]
   ],
-  "_from": "iris-app@*",
-  "_id": "iris-app@0.1.57",
+  "_from": "cm-iris-app@*",
+  "_id": "cm-iris-app@0.1.57",
   "_inCache": true,
-  "_location": "/iris-app",
+  "_location": "/cm-iris-app",
   "_nodeVersion": "8.0.0",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/iris-app-0.1.57.tgz_1496943185625_0.37175391474738717"
+    "tmp": "tmp/cm-iris-app-0.1.57.tgz_1496943185625_0.37175391474738717"
   },
   "_npmUser": {
-    "name": "aspect",
-    "email": "anton.yemelyanov@gmail.com"
+    "name": "systemzax",
+    "email": "info@cryptomechanics.com"
   },
   "_npmVersion": "5.0.0",
   "_phantomChildren": {
@@ -37,10 +37,10 @@
     "socks": "1.1.9"
   },
   "_requested": {
-    "raw": "iris-app@*",
+    "raw": "cm-iris-app@*",
     "scope": null,
-    "escapedName": "iris-app",
-    "name": "iris-app",
+    "escapedName": "cm-iris-app",
+    "name": "cm-iris-app",
     "rawSpec": "*",
     "spec": "*",
     "type": "range"
@@ -48,17 +48,17 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/iris-app/-/iris-app-0.1.57.tgz",
+  "_resolved": "https://registry.npmjs.org/cm-iris-app/-/cm-iris-app-0.1.57.tgz",
   "_shasum": "9f6b1714e0c87f69334c3405460ea3d06ff94419",
   "_shrinkwrap": null,
-  "_spec": "iris-app@*",
+  "_spec": "cm-iris-app@*",
   "_where": "C:\\dev\\labsys",
   "author": {
     "name": "ASPECTRON Inc.",
     "email": "info@aspectron.com"
   },
   "bugs": {
-    "url": "https://github.com/aspectron/iris-app/issues"
+    "url": "https://github.com/cryptomechanics/cm-iris-app/issues"
   },
   "dependencies": {
     "basic-auth": "*",
@@ -99,7 +99,7 @@
   "dist": {
     "integrity": "sha512-pmXeCGf5iv3k6hk0Wy/MCXwzRncJ4ArRtjYRqHO/vRUhsNEkVosRb0GyKRqYCujqRYp+lBFGHocsZ6Q1WUMV8w==",
     "shasum": "9f6b1714e0c87f69334c3405460ea3d06ff94419",
-    "tarball": "https://registry.npmjs.org/iris-app/-/iris-app-0.1.57.tgz"
+    "tarball": "https://registry.npmjs.org/cm-iris-app/-/cm-iris-app-0.1.57.tgz"
   },
   "engines": {
     "node": "*"
@@ -111,7 +111,7 @@
     "README.md"
   ],
   "gitHead": "bb97268a4bf4d9114c2251c298b7953ef1889c0d",
-  "homepage": "https://github.com/aspectron/iris-app",
+  "homepage": "https://github.com/aspectron/cm-iris-app",
   "keywords": [
     "utilities",
     "framework",
@@ -120,19 +120,19 @@
     "iris"
   ],
   "license": "MIT",
-  "main": "iris-app",
+  "main": "cm-iris-app",
   "maintainers": [
     {
-      "name": "aspect",
-      "email": "anton.yemelyanov@gmail.com"
+      "name": "systemzax",
+      "email": "info@cryptomechanics.com"
     }
   ],
-  "name": "iris-app",
+  "name": "cm-iris-app",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aspectron/iris-app.git"
+    "url": "git://github.com/cryptomechanics/cm-iris-app.git"
   },
   "scripts": {
     "prepublish": "npm prune"
