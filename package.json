@@ -1,0 +1,141 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "iris-app@*",
+        "scope": null,
+        "escapedName": "iris-app",
+        "name": "iris-app",
+        "rawSpec": "*",
+        "spec": "*",
+        "type": "range"
+      },
+      "C:\\dev\\labsys"
+    ]
+  ],
+  "_from": "iris-app@*",
+  "_id": "iris-app@0.1.57",
+  "_inCache": true,
+  "_location": "/iris-app",
+  "_nodeVersion": "8.0.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/iris-app-0.1.57.tgz_1496943185625_0.37175391474738717"
+  },
+  "_npmUser": {
+    "name": "aspect",
+    "email": "anton.yemelyanov@gmail.com"
+  },
+  "_npmVersion": "5.0.0",
+  "_phantomChildren": {
+    "libmime": "3.0.0",
+    "mailcomposer": "4.0.1",
+    "nodemailer-direct-transport": "3.3.2",
+    "nodemailer-shared": "1.1.0",
+    "nodemailer-smtp-pool": "2.8.2",
+    "nodemailer-smtp-transport": "2.7.2",
+    "socks": "1.1.9"
+  },
+  "_requested": {
+    "raw": "iris-app@*",
+    "scope": null,
+    "escapedName": "iris-app",
+    "name": "iris-app",
+    "rawSpec": "*",
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/iris-app/-/iris-app-0.1.57.tgz",
+  "_shasum": "9f6b1714e0c87f69334c3405460ea3d06ff94419",
+  "_shrinkwrap": null,
+  "_spec": "iris-app@*",
+  "_where": "C:\\dev\\labsys",
+  "author": {
+    "name": "ASPECTRON Inc.",
+    "email": "info@aspectron.com"
+  },
+  "bugs": {
+    "url": "https://github.com/aspectron/iris-app/issues"
+  },
+  "dependencies": {
+    "basic-auth": "*",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "connect": "^3.4.1",
+    "connect-mongo": "^1.2.0",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "*",
+    "cookie-signature": "*",
+    "ect": "^1.0.0",
+    "ejs": "*",
+    "errorhandler": "*",
+    "express": "^4.14.0",
+    "express-session": "^1.13.0",
+    "getmac": "^1.2.1",
+    "iris-base58": "*",
+    "iris-rpc": "*",
+    "iris-stats": "*",
+    "iris-utils": "*",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.6",
+    "mongodb": "^2.1.21",
+    "node-uuid": "^1.4.7",
+    "nodemailer": "^2.4.2",
+    "nodemailer-pickup-transport": "*",
+    "notp": "^2.0.3",
+    "request": "*",
+    "serve-static": "^1.11.1",
+    "socket.io": "^1.4.6",
+    "thirty-two": "*",
+    "underscore": "^1.8.3"
+  },
+  "description": "IRIS Application Framework",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-pmXeCGf5iv3k6hk0Wy/MCXwzRncJ4ArRtjYRqHO/vRUhsNEkVosRb0GyKRqYCujqRYp+lBFGHocsZ6Q1WUMV8w==",
+    "shasum": "9f6b1714e0c87f69334c3405460ea3d06ff94419",
+    "tarball": "https://registry.npmjs.org/iris-app/-/iris-app-0.1.57.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "files": [
+    "iris-app.js",
+    "lib",
+    "http",
+    "README.md"
+  ],
+  "gitHead": "bb97268a4bf4d9114c2251c298b7953ef1889c0d",
+  "homepage": "https://github.com/aspectron/iris-app",
+  "keywords": [
+    "utilities",
+    "framework",
+    "json",
+    "rpc",
+    "iris"
+  ],
+  "license": "MIT",
+  "main": "iris-app",
+  "maintainers": [
+    {
+      "name": "aspect",
+      "email": "anton.yemelyanov@gmail.com"
+    }
+  ],
+  "name": "iris-app",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aspectron/iris-app.git"
+  },
+  "scripts": {
+    "prepublish": "npm prune"
+  },
+  "version": "0.1.57"
+}
